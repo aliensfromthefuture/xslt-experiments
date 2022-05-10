@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-1. Install `serve`, a simple static file web server written in Go using homebrew.
+1. Install `serve`, a simple static file web server written in Go, using homebrew.
 
 `brew install syntaqx/tap/serve`
 
