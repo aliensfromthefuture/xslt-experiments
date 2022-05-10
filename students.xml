@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="students.xsl" type="text/xsl"?>
+<class>
+  <student>
+    <firstname>Rick</firstname>
+    <lastname>Nogers</lastname>
+    <nickname>Nicky Perfect</nickname>
+  </student>
+  <student>
+    <firstname>Ben</firstname>
+    <lastname>Damman</lastname>
+    <nickname>typesend</nickname>
+  </student>
+</class>

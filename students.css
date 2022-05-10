@@ -1,0 +1,17 @@
+table th {
+  font-size: large;
+  font-weight: normal;
+}
+
+table td {
+  font-size: large;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: xx-large;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
