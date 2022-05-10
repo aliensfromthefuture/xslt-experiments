@@ -8,7 +8,7 @@
 
 2. Run `serve` (just like that, with no command arguments) inside this project directory.
 
-3. Open the localhost URL serve is serving up and look upon the rendered page with wonder.
+3. Open the localhost URL serve is serving up and [look upon the rendered page](http://localhost:5000/students.xml) with wonder.
 
 4. Give yourself a gift of ten minutes of contemplation in awe of everything you see in the source files three.
 
